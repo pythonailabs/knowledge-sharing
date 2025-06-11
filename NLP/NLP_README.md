@@ -40,7 +40,7 @@ Natural Language Processing (NLP) is the branch of artificial intelligence that 
 
 5. **Machine Translation**
    Converting text from one language to another.
-   *Example:* Translating “How are you?” to “¿Cómo estás?” "எப்படி இருக்கிறீர்கள்?" in Spanish.
+   *Example:* Translating “How are you?” to "எப்படி இருக்கிறீர்கள்?" in Tamil.
 
 6. **Text Summarization**
    Producing a concise summary of a longer document.
