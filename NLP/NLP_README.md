@@ -83,6 +83,6 @@ flowchart TD
 
 ---
 
-### Quick takeaway
+%% ### Quick takeaway
 
-NLP is all about making sense of human language with machines. Whenever you talk to your phone, read auto-translated text, get live captions, or see personalized recommendations based on your reviews, you’re experiencing NLP at work!
+%% NLP is all about making sense of human language with machines. Whenever you talk to your phone, read auto-translated text, get live captions, or see personalized recommendations based on your reviews, you’re experiencing NLP at work!
