@@ -74,6 +74,13 @@ Natural Language Processing (NLP) is the branch of artificial intelligence that 
 4. **Inference**: Apply the trained model to new text to get answers—translation, sentiment label, named entities, etc.
 5. **Fine-tuning**: Often, large pre-trained models (like GPT or BERT) are further trained on a smaller, specialized dataset to improve accuracy in a particular domain.
 
+```mermaid
+flowchart TD
+    A[Data Preparation: Gather and clean text] --> B[Feature Extraction: Convert words into numbers]
+    B --> C[Model Training: Learn patterns using ML/DL algorithms]
+    C --> D[Inference: Apply trained model to new text]
+    D --> E[Fine-tuning: Further train pre-trained models for specific domains]
+
 ---
 
 ### Quick takeaway
