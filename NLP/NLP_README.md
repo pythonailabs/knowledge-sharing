@@ -66,6 +66,12 @@ Natural Language Processing (NLP) is the branch of artificial intelligence that 
 
 ---
 
+### Quick takeaway
+
+NLP is all about making sense of human language with machines. Whenever you talk to your phone, read auto-translated text, get live captions, or see personalized recommendations based on your reviews, you’re experiencing NLP at work!
+
+---
+
 ## 4. How it works “under the hood” (very high-level)
 
 1. **Data Preparation**: Gather lots of text and clean it (remove typos, unwanted symbols).
@@ -81,8 +87,3 @@ flowchart TD
     C --> D[Inference: Apply trained model to new text]
     D --> E[Fine-tuning: Further train pre-trained models for specific domains]
 
----
-
-%% ### Quick takeaway
-
-%% NLP is all about making sense of human language with machines. Whenever you talk to your phone, read auto-translated text, get live captions, or see personalized recommendations based on your reviews, you’re experiencing NLP at work!
